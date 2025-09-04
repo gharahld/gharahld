@@ -49,7 +49,7 @@ Currently, I’m developing an **AI model** that blends **RAG, fine-tuning, and 
 ---
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gharahld/gharahld/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <img alt="" src="https://raw.githubusercontent.com/gharahld/gharahld/output/github-contribution-grid-snake-dark.svg?v=2" />
   <br/><br/><br/>
 </div>
 
