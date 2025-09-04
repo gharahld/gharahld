@@ -22,7 +22,7 @@ Currently, I’m developing an **AI model** that blends **RAG, fine-tuning, and 
     <!-- Row 1 -->
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js,ts" />
     <!-- Row 2 -->
-    <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express,mysql,mongodb,aws,docker,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express,mysql,mongodb,docker,git,github,vscode" />
 </div>
 
 <br/>
@@ -48,7 +48,6 @@ Currently, I’m developing an **AI model** that blends **RAG, fine-tuning, and 
 
 ---
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gharahld/gharahld/output/github-contribution-grid-snake-dark.svg?v=2" />
   <br/><br/><br/>
