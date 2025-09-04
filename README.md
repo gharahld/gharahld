@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gharahld Bruno  
+# 👋 Hi, I’m Gharahld
 
 ### 💻 Full-Stack Developer | 🌐 TechAction Studio | 🤖 AI Enthusiast  
 
