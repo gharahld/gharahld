@@ -44,8 +44,11 @@ Currently, I’m developing an **AI model** that blends **RAG, fine-tuning, and 
 - 🔹 **AI Model Project** — Experimenting with **RAG + fine-tuning + efficient storage systems** for next-gen LLM workflows  
 
 ---
-
 ## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gharahld&show_icons=true&theme=tokyonight" height="165" />
