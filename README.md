@@ -75,4 +75,3 @@ Currently, I’m developing an **AI model** that blends **RAG, fine-tuning, and 
 
 ---
 
-⭐️ From [@Gharahld](https://github.com/Gharahld)
