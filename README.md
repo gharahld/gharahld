@@ -14,26 +14,19 @@ Currently, I’m developing an **AI model** that blends **RAG, fine-tuning, and 
 - 🌍 Multilingual: English, French, Spanish  
 
 ---
+<hr/>
 
-## 🛠️ Tech Toolbox  
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<p align="center">
-  <!-- Top row -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+<div align="center">
+    <!-- Row 1 -->
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js,ts" />
+    <!-- Row 2 -->
+    <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express,mysql,mongodb,aws,docker,git,github,vscode,figma" />
+</div>
 
-<p align="center">
-  <!-- Bottom row -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<br/>
+<hr/>
 
 ---
 
@@ -44,22 +37,22 @@ Currently, I’m developing an **AI model** that blends **RAG, fine-tuning, and 
 - 🔹 **AI Model Project** — Experimenting with **RAG + fine-tuning + efficient storage systems** for next-gen LLM workflows  
 
 ---
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gharahld&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gharahld&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gharahld&theme=tokyonight" />
-</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com?user=Gharahld&count_private=true&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true&v=1" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Gharahld&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&cache_seconds=1800&v=1" alt="readme stats" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gharahld&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=1800&v=1" alt="top langs" />
+</div>
 
 ---
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gharahld/Gharahld/output/github-contribution-grid-snake.svg?v=1" />
+  <br/><br/><br/>
+</div>
 
 ## 🌱 Currently Exploring
 - 🚀 Advanced **React Native** (Kidz-N-Motion app)  
