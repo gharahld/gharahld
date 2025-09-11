@@ -41,9 +41,9 @@ Currently, I’m developing an **AI model** that blends **RAG, fine-tuning, and 
 <br>
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com?user=Gharahld&count_private=true&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true&v=1" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Gharahld&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&cache_seconds=1800&v=1" alt="readme stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=gharahld&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&cache_seconds=1800&v=1" alt="readme stats" />
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gharahld&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=1800&v=1" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gharahld&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=1800&v=1" alt="top langs" />
 </div>
 
 ---
