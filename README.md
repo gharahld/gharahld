@@ -8,7 +8,7 @@ Currently, I’m developing an **AI model** that blends **RAG, fine-tuning, and 
 ---
 
 ## 🚀 What I Do
-- 🌟 Founder of **[TechAction Studio](https://techactionstudio.com)** — empowering businesses with modern websites & apps  
+- 🌟 Founder of **[TechAction Studio](https://www.techactionstudio.com)** — empowering businesses with modern websites & apps  
 - 🛠️ Skilled in **React, Next.js, Django, Flask, Prisma, Tailwind CSS, Node.js, AWS**  
 - 📊 Data-driven: Python automation, APIs, and workflow optimization  
 - 🌍 Multilingual: English, French, Spanish  
@@ -31,8 +31,8 @@ Currently, I’m developing an **AI model** that blends **RAG, fine-tuning, and 
 ---
 
 ## 📌 Featured Projects
-- 🔹 **[TechAction Studio](https://techactionstudio.com)** — My dev studio’s portfolio site  
-- 🔹 **[Superior Cleaning LLC](https://superiorcleaning.com)** — Cleaning-service booking app  
+- 🔹 **[TechAction Studio](https://www.techactionstudio.com)** — My dev studio’s portfolio site  
+- 🔹 **[Superior Cleaning LLC](https://www.superiorcleaning.com)** — Cleaning-service booking app  
 - 🔹 **Territorium (Django app)** — Territory & address management system with custom dashboards  
 - 🔹 **AI Model Project** — Experimenting with **RAG + fine-tuning + efficient storage systems** for next-gen LLM workflows  
 
@@ -64,7 +64,7 @@ Currently, I’m developing an **AI model** that blends **RAG, fine-tuning, and 
 <p align="center">
   <a href="https://github.com/Gharahld"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gharahld-b-4b828619b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://techactionstudio.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.techactionstudio.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:info@techactionstudio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
